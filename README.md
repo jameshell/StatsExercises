@@ -14,8 +14,9 @@
   - Execute the following command in the root folder where the download was made: ```py get-pip.py```
   
 2. Install the **Numpy** library by running the following code: ```pip install numpy```
-3. Search for the **Matrices.py** file located in the root folder of the project
-4. Execute the **Matrices.py** file by using the command ```py Matrices.py```
+3. Install the **SciPy** library by running the following code: ```pip install scipy```
+4. Search for the **Matrices.py** file located in the root folder of the project
+5. Execute the **Matrices.py** file by using the command ```py Matrices.py```
 
 ### Instructions to Test
 
